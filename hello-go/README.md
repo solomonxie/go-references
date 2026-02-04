@@ -1,0 +1,11 @@
+# hello-go
+
+Progressive Go learning series. Each `hello_NN_topic.go` file is a complete,
+standalone program — run it directly with the command in its header comment.
+No file depends on another.
+
+## Steps
+
+| File | Topic |
+|---|---|
+| `hello_01_hello_world.go` | package main, func main, fmt.Println |
