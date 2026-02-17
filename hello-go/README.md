@@ -12,3 +12,4 @@ No file depends on another.
 | `hello_02_variables.go` | var, type inference, := |
 | `hello_03_constants.go` | const, iota |
 | `hello_04_functions.go` | func, parameters, return type |
+| `hello_05_multiple_returns.go` | multiple return values |
