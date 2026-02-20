@@ -13,3 +13,4 @@ No file depends on another.
 | `hello_03_constants.go` | const, iota |
 | `hello_04_functions.go` | func, parameters, return type |
 | `hello_05_multiple_returns.go` | multiple return values |
+| `hello_06_named_returns.go` | named returns, naked return |
