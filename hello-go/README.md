@@ -16,3 +16,4 @@ No file depends on another.
 | `hello_06_named_returns.go` | named returns, naked return |
 | `hello_07_if_else.go` | if/else, init statement |
 | `hello_08_for_loops.go` | for: classic, while-style, infinite+break |
+| `hello_09_switch.go` | switch on value, switch with no expression |
