@@ -19,3 +19,4 @@ No file depends on another.
 | `hello_09_switch.go` | switch on value, switch with no expression |
 | `hello_10_arrays.go` | fixed-length arrays, range |
 | `hello_11_slices.go` | slices, append, sub-slicing, make |
+| `hello_12_maps.go` | maps, comma-ok, delete |
