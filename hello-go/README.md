@@ -20,3 +20,4 @@ No file depends on another.
 | `hello_10_arrays.go` | fixed-length arrays, range |
 | `hello_11_slices.go` | slices, append, sub-slicing, make |
 | `hello_12_maps.go` | maps, comma-ok, delete |
+| `hello_13_structs.go` | struct types, literals, field access |
