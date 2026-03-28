@@ -24,3 +24,4 @@ No file depends on another.
 | `hello_14_pointers.go` | &, *, pointer parameters mutate the caller |
 | `hello_15_methods.go` | methods, value vs pointer receiver |
 | `hello_16_interfaces.go` | interfaces, implicit satisfaction |
+| `hello_17_errors.go` | error values, errors.New, %w wrapping, errors.Is |
