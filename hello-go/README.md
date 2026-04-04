@@ -26,3 +26,4 @@ No file depends on another.
 | `hello_16_interfaces.go` | interfaces, implicit satisfaction |
 | `hello_17_errors.go` | error values, errors.New, %w wrapping, errors.Is |
 | `hello_18_defer_panic_recover.go` | defer (LIFO), panic, recover |
+| `hello_19_goroutines.go` | go keyword, sync.WaitGroup |
