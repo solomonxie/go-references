@@ -6,26 +6,24 @@ No file depends on another.
 
 ## Steps
 
-| File | Topic |
-|---|---|
-| `hello_01_hello_world.go` | package main, func main, fmt.Println |
-| `hello_02_variables.go` | var, type inference, := |
-| `hello_03_constants.go` | const, iota |
-| `hello_04_functions.go` | func, parameters, return type |
-| `hello_05_multiple_returns.go` | multiple return values |
-| `hello_06_named_returns.go` | named returns, naked return |
-| `hello_07_if_else.go` | if/else, init statement |
-| `hello_08_for_loops.go` | for: classic, while-style, infinite+break |
-| `hello_09_switch.go` | switch on value, switch with no expression |
-| `hello_10_arrays.go` | fixed-length arrays, range |
-| `hello_11_slices.go` | slices, append, sub-slicing, make |
-| `hello_12_maps.go` | maps, comma-ok, delete |
-| `hello_13_structs.go` | struct types, literals, field access |
-| `hello_14_pointers.go` | &, *, pointer parameters mutate the caller |
-| `hello_15_methods.go` | methods, value vs pointer receiver |
-| `hello_16_interfaces.go` | interfaces, implicit satisfaction |
-| `hello_17_errors.go` | error values, errors.New, %w wrapping, errors.Is |
-| `hello_18_defer_panic_recover.go` | defer (LIFO), panic, recover |
-| `hello_19_goroutines.go` | go keyword, sync.WaitGroup |
-| `hello_20_channels.go` | unbuffered channels, send/receive |
-| `hello_21_select.go` | select, default (non-blocking), time.After timeout |
+- `hello_01_hello_world.go`
+- `hello_02_variables.go`
+- `hello_03_constants.go`
+- `hello_04_functions.go`
+- `hello_05_multiple_returns.go`
+- `hello_06_named_returns.go`
+- `hello_07_if_else.go`
+- `hello_08_for_loops.go`
+- `hello_09_switch.go`
+- `hello_10_arrays.go`
+- `hello_11_slices.go`
+- `hello_12_maps.go`
+- `hello_13_structs.go`
+- `hello_14_pointers.go`
+- `hello_15_methods.go`
+- `hello_16_interfaces.go`
+- `hello_17_errors.go`
+- `hello_18_defer_panic_recover.go`
+- `hello_19_goroutines.go`
+- `hello_20_channels.go`
+- `hello_21_select.go`
