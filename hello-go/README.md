@@ -17,3 +17,4 @@ No file depends on another.
 | `hello_07_if_else.go` | if/else, init statement |
 | `hello_08_for_loops.go` | for: classic, while-style, infinite+break |
 | `hello_09_switch.go` | switch on value, switch with no expression |
+| `hello_10_arrays.go` | fixed-length arrays, range |
