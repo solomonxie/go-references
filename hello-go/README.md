@@ -10,3 +10,4 @@ No file depends on another.
 |---|---|
 | `hello_01_hello_world.go` | package main, func main, fmt.Println |
 | `hello_02_variables.go` | var, type inference, := |
+| `hello_03_constants.go` | const, iota |
