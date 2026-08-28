@@ -28,3 +28,4 @@ No file depends on another.
 | `hello_18_defer_panic_recover.go` | defer (LIFO), panic, recover |
 | `hello_19_goroutines.go` | go keyword, sync.WaitGroup |
 | `hello_20_channels.go` | unbuffered channels, send/receive |
+| `hello_21_select.go` | select, default (non-blocking), time.After timeout |
