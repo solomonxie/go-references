@@ -14,3 +14,4 @@ No file depends on another.
 | `hello_04_functions.go` | func, parameters, return type |
 | `hello_05_multiple_returns.go` | multiple return values |
 | `hello_06_named_returns.go` | named returns, naked return |
+| `hello_07_if_else.go` | if/else, init statement |
