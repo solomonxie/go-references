@@ -22,3 +22,4 @@ No file depends on another.
 | `hello_12_maps.go` | maps, comma-ok, delete |
 | `hello_13_structs.go` | struct types, literals, field access |
 | `hello_14_pointers.go` | &, *, pointer parameters mutate the caller |
+| `hello_15_methods.go` | methods, value vs pointer receiver |
