@@ -23,3 +23,4 @@ No file depends on another.
 | `hello_13_structs.go` | struct types, literals, field access |
 | `hello_14_pointers.go` | &, *, pointer parameters mutate the caller |
 | `hello_15_methods.go` | methods, value vs pointer receiver |
+| `hello_16_interfaces.go` | interfaces, implicit satisfaction |
